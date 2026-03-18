@@ -31,7 +31,7 @@
  ├── 📂 08_modelagem           → Modelagem de banco de dados (MySQL Workbench)
  └── 📂 09_projeto_final       → Sistema de Cadastro de Pessoas Desaparecidas
 ```
-
+</div>
 ---
 
 ## 🧠 01 — Lógica de Programação (`01_logica`)
