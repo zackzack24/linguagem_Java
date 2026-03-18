@@ -15,6 +15,8 @@
 
 ---
 
+<div align="center">
+
 ## 📁 Estrutura do Repositório
 
 ```

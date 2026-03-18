@@ -8,7 +8,7 @@ public class App {
 
         String[] nomes = new String[10];
 
-        for(int i = 0; i < nomes.length; i ++) {
+        for (int i = 0; i < nomes.length; i++) {
             System.out.println("Informe o " + (i + 1) + "° nome");
             nomes[i] = leia.nextLine();
         }
@@ -16,8 +16,8 @@ public class App {
         for (String nome : nomes) {
             System.out.printf(nome);
         }
-        
-        leia.close(); 
+
+        leia.close();
 
     }
 }
