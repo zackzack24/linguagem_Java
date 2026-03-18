@@ -15,7 +15,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 📁 Estrutura do Repositório
 
@@ -31,15 +31,17 @@
  ├── 📂 08_modelagem           → Modelagem de banco de dados (MySQL Workbench)
  └── 📂 09_projeto_final       → Sistema de Cadastro de Pessoas Desaparecidas
 ```
-</div>
+
 ---
+
+<div align="center"> 
 
 ## 🧠 01 — Lógica de Programação (`01_logica`)
 
 Exercícios em **Portugol** como base para o pensamento lógico antes de entrar no Java.
 
 | # | Tema |
-|---|------|
+|---|------:|
 | 01 | Hello World |
 | 02 | Variáveis |
 | 03 | Entrada de Dados |
@@ -54,12 +56,16 @@ Exercícios em **Portugol** como base para o pensamento lógico antes de entrar 
 
 ---
 
+</div>
+
+<div align="center"> 
+
 ## ☕ 02 — Java Console (`02_java_console`)
 
 Fundamentos da linguagem Java com programas rodados no terminal.
 
 | # | Tema | Conceito |
-|---|------|---------|
+|:---|:------:|---------:|
 | 01 | Hello World | Estrutura básica |
 | 02 | Variáveis | Tipos primitivos |
 | 03 | Input | Scanner |
@@ -71,12 +77,14 @@ Fundamentos da linguagem Java com programas rodados no terminal.
 
 ---
 
+<div align="center"> 
+
 ## 🏗️ 03 — POO — Programação Orientada a Objetos (`03_poo`)
 
 Os quatro pilares da OOP aplicados em Java.
 
 | # | Módulo | Conceito |
-|---|--------|---------|
+|:---|:--------:|---------:|
 | 01 | Objeto | Classes e instâncias |
 | 02 | Herança | `extends`, superclasse |
 | 03 | Polimorfismo | Sobrescrita de métodos |
@@ -86,24 +94,28 @@ Os quatro pilares da OOP aplicados em Java.
 
 ---
 
+<div align="center"> 
+
 ## 🖥️ 04 — GUI — Interface Gráfica (`04_gui`)
 
 Interação com o usuário via **JOptionPane** e conceitos avançados de OOP.
 
 | # | Projeto | Destaque |
-|---|---------|---------|
+|:---|:---------:|---------:|
 | 01 | Caixas de Diálogo | JOptionPane com model |
 | 02 | Calculadora | Interface `ICalculadora`, polimorfismo |
 | 03 | Composição | Composição de objetos + Interface `IConta` |
 
 ---
 
+<div align="center"> 
+
 ## 📝 05 — Atividades Java (`05_atividades`)
 
 Exercícios práticos integrando os conceitos estudados.
 
 | # | Tema |
-|---|------|
+|---|------:|
 | 01 | Exercício básico |
 | 02 | Lógica com classes |
 | 03 | Pessoa e Conta (POO) |
@@ -114,12 +126,14 @@ Exercícios práticos integrando os conceitos estudados.
 
 ---
 
+<div align="center"> 
+
 ## 🌐 06 — Front-End (`06_front_end`)
 
 Desenvolvimento web com HTML, CSS, JavaScript e Bootstrap.
 
 | # | Tema |
-|---|------|
+|---|------:|
 | 01 | Hello World HTML |
 | 02 | Formulários |
 | 03-05 | Estilos CSS |
@@ -131,6 +145,9 @@ Desenvolvimento web com HTML, CSS, JavaScript e Bootstrap.
 | 11 | Consumo de API (fetch) |
 
 ---
+
+</div>
+ 
 
 ## 🍃 07 — Spring Boot (`07_spring`)
 
@@ -149,6 +166,8 @@ Sistema CRUD completo de cadastro de pessoas.
 
 ---
 
+
+
 ## 🗄️ 08 — Modelagem de Banco de Dados (`08_modelagem`)
 
 Modelos relacionais criados no **MySQL Workbench**.
@@ -159,6 +178,8 @@ Modelos relacionais criados no **MySQL Workbench**.
 - `png_banco_de_dados.png` — Diagrama ER exportado
 
 ---
+
+
 
 ## 🚨 09 — Projeto Final (`09_projeto_final`)
 
@@ -193,10 +214,12 @@ spring.datasource.password=sua_senha
 
 ---
 
+<div align="center"> 
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia | Versão | Uso |
-|-----------|--------|-----|
+|-----------|--------|-----:|
 | Java | 17 | Linguagem principal |
 | Spring Boot | 3.x | Framework web |
 | Maven | 3.x | Gerenciador de dependências |
