@@ -12,17 +12,16 @@
 
   <h1>Repositório — Desenvolvedor Java</h1>
 
-  <p>Documentação da minha jornada de aprendizado em Java, do zero ao Spring Boot.<br/>
-  Exercícios, projetos práticos e evolução contínua.</p>
+  <p>Documentação da minha jornada de aprendizado em Java, do zero ao Java Master.<br/>
 
 </div>
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
-📦 DESENVOLVEDOR-JAVA-QUA-209.079
+linguagem_Java
  ├── 📂 01_logica              → Lógica de programação em Portugol
  ├── 📂 02_java_console        → Fundamentos Java no console
  ├── 📂 03_poo                 → Programação Orientada a Objetos
@@ -38,23 +37,23 @@
 
 <div align="center">
 
-## 🧠 01 — Lógica de Programação (`01_logica`)
+## [01 — Lógica de Programação](https://github.com/zackzack24/linguagem_Java/tree/main/01_logica)
 
 Exercícios em **Portugol** como base para o pensamento lógico antes de entrar no Java.
 
-| #   |                     Tema |
-| --- | -----------------------: |
-| 01  |              Hello World |
-| 02  |                Variáveis |
-| 03  |         Entrada de Dados |
-| 04  |               Se / Senão |
-| 05  |        Se / Senão Lógico |
-| 06  |                 Senão Se |
-| 07  |            Caso (Switch) |
-| 08  |         Enquanto (While) |
+| #   |           Tema           |
+| --- | :----------------------: |
+| 01  |       Hello World        |
+| 02  |        Variáveis         |
+| 03  |     Entrada de Dados     |
+| 04  |        Se / Senão        |
+| 05  |    Se / Senão Lógico     |
+| 06  |         Senão Se         |
+| 07  |      Caso (Switch)       |
+| 08  |     Enquanto (While)     |
 | 09  | Faça Enquanto (Do-While) |
-| 10  |            Vetor (Array) |
-| 11  |                   Listas |
+| 10  |      Vetor (Array)       |
+| 11  |          Listas          |
 
 ---
 
@@ -62,43 +61,43 @@ Exercícios em **Portugol** como base para o pensamento lógico antes de entrar 
 
 <div align="center">
 
-## ☕ 02 — Java Console (`02_java_console`)
+## [02 — Java Console](https://github.com/zackzack24/linguagem_Java/tree/main/02_java_console)
 
 Fundamentos da linguagem Java com programas rodados no terminal.
 
-| #     |    Tema     |              Conceito |
-| :---- | :---------: | --------------------: |
-| 01    | Hello World |      Estrutura básica |
-| 02    |  Variáveis  |      Tipos primitivos |
-| 03    |    Input    |               Scanner |
-| 04-07 |  If / Else  |          Condicionais |
-| 08    |   Switch    |      Múltipla escolha |
-| 09    |    While    |     Laço com condição |
+| #     |    Tema     |       Conceito        |
+| :---- | :---------: | :-------------------: |
+| 01    | Hello World |   Estrutura básica    |
+| 02    |  Variáveis  |   Tipos primitivos    |
+| 03    |    Input    |        Scanner        |
+| 04-07 |  If / Else  |     Condicionais      |
+| 08    |   Switch    |   Múltipla escolha    |
+| 09    |    While    |   Laço com condição   |
 | 10    |  Do-While   | Laço com pós-condição |
-| 11    |    Array    |    Vetores e iteração |
+| 11    |    Array    |  Vetores e iteração   |
 
 ---
 
 <div align="center">
 
-## 🏗️ 03 — POO — Programação Orientada a Objetos (`03_poo`)
+## [03 — POO — Programação Orientada a Objetos](https://github.com/zackzack24/linguagem_Java/tree/main/03_poo)
 
 Os quatro pilares da OOP aplicados em Java.
 
-| #   |     Módulo     |                   Conceito |
-| :-- | :------------: | -------------------------: |
-| 01  |     Objeto     |       Classes e instâncias |
-| 02  |    Herança     |     `extends`, superclasse |
-| 03  |  Polimorfismo  |     Sobrescrita de métodos |
+| #   |     Módulo     |          Conceito          |
+| :-- | :------------: | :------------------------: |
+| 01  |     Objeto     |    Classes e instâncias    |
+| 02  |    Herança     |   `extends`, superclasse   |
+| 03  |  Polimorfismo  |   Sobrescrita de métodos   |
 | 04  | Encapsulamento | `private`, getters/setters |
-| 05  | Quatro Pilares |   Integração dos conceitos |
-| 06  |   Interface    |      `interface`, contrato |
+| 05  | Quatro Pilares |  Integração dos conceitos  |
+| 06  |   Interface    |   `interface`, contrato    |
 
 ---
 
 <div align="center">
 
-## 🖥️ 04 — GUI — Interface Gráfica (`04_gui`)
+## [04 — GUI — Interface Gráfica](https://github.com/zackzack24/linguagem_Java/tree/main/04_gui)
 
 Interação com o usuário via **JOptionPane** e conceitos avançados de OOP.
 
@@ -112,25 +111,25 @@ Interação com o usuário via **JOptionPane** e conceitos avançados de OOP.
 
 <div align="center">
 
-## 📝 05 — Atividades Java (`05_atividades`)
+## [05 — Atividades Java](https://github.com/zackzack24/linguagem_Java/tree/main/05_atividades)
 
 Exercícios práticos integrando os conceitos estudados.
 
-| #   |                        Tema |
-| --- | --------------------------: |
-| 01  |            Exercício básico |
-| 02  |          Lógica com classes |
-| 03  |        Pessoa e Conta (POO) |
-| 04  |              Cálculo de IMC |
-| 05  |  Comparação de Combustíveis |
-| 06  |             Carros e Pessoa |
+| #   |            Tema             |
+| --- | :-------------------------: |
+| 01  |      Exercício básico       |
+| 02  |     Lógica com classes      |
+| 03  |    Pessoa e Conta (POO)     |
+| 04  |       Cálculo de IMC        |
+| 05  | Comparação de Combustíveis  |
+| 06  |       Carros e Pessoa       |
 | 09  | Fabricante, Modelo e Deltas |
 
 ---
 
 <div align="center">
 
-## 🌐 06 — Front-End (`06_front_end`)
+## [06 — Front-End](https://github.com/zackzack24/linguagem_Java/tree/main/06_front_end) 
 
 Desenvolvimento web com HTML, CSS, JavaScript e Bootstrap.
 
@@ -150,8 +149,7 @@ Desenvolvimento web com HTML, CSS, JavaScript e Bootstrap.
 
 </div>
 
-
-## 🍃 07 — Spring Boot (`07_spring`)
+## [07 — Spring Boot](https://github.com/zackzack24/linguagem_Java/tree/main/07_spring)
 
 Projetos web com o ecossistema Spring.
 
@@ -172,7 +170,7 @@ Sistema CRUD completo de cadastro de pessoas.
 
 ---
 
-## 🗄️ 08 — Modelagem de Banco de Dados (`08_modelagem`)
+## [08 — Modelagem de Banco de Dados](https://github.com/zackzack24/linguagem_Java/tree/main/08_modelagem)
 
 Modelos relacionais criados no **MySQL Workbench**.
 
@@ -183,7 +181,7 @@ Modelos relacionais criados no **MySQL Workbench**.
 
 ---
 
-## 🚨 09 — Projeto Final (`09_projeto_final`)
+## [09 — Projeto Final](https://github.com/zackzack24/linguagem_Java/tree/main/09_projeto_final)
 
 ### Sistema de Cadastro de Pessoas Desaparecidas
 
