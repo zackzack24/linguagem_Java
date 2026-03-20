@@ -41,11 +41,11 @@ public class App {
         System.out.println("Email do usuário: " + usuario.email);
         System.out.println("Telefone do usuário: " + usuario.telefone);
         System.out.println("Endereço do usuário: " + usuario.endereco);
-        System.out.println("Razão Social da Empresa" + empresa.razaoSocial);
-        System.out.println("Nome Fantasia da Empresa" + empresa.nomeFantasia);
-        System.out.println("CNPJ da Empresa" + empresa.cnpj);
-        System.out.println("Telefone da Empresa" + empresa.telefone);
-        System.out.println("Endereço da Empresa" + empresa.endereco);
+        System.out.println("Razão Social da Empresa:" + empresa.razaoSocial);
+        System.out.println("Nome Fantasia da Empresa:" + empresa.nomeFantasia);
+        System.out.println("CNPJ da Empresa:" + empresa.cnpj);
+        System.out.println("Telefone da Empresa:" + empresa.telefone);
+        System.out.println("Endereço da Empresa:" + empresa.endereco);
 
        leia.close();
     } 

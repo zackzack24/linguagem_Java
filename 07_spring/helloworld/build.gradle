@@ -10,7 +10,7 @@ description = 'Projeto Hello World da turma de Java do Senai'
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+		languageVersion = JavaLanguageVersion.of(21)
 	}
 }
 

@@ -28,6 +28,7 @@ public class CrudController {
         return "cadastrar";
     }
 
+    @SuppressWarnings("null") // FIX 
     @RequestMapping(value = "/cadastrar", method = RequestMethod.POST)
     public String cadastrar(Pessoa usuario) {
         csr.save(usuario);
@@ -53,6 +54,7 @@ public class CrudController {
     }
 
     // alterar post
+    @SuppressWarnings("null")
     @RequestMapping(value = "/alterarUsuario/{idPessoa}", method = RequestMethod.POST)
     public String alterarUsuario(@Validated Pessoa usuario, BindingResult result, RedirectAttributes atributes) {
         csr.save(usuario);
@@ -68,6 +70,7 @@ public class CrudController {
         return mv;
     }
 
+    @SuppressWarnings("null")
     @RequestMapping("/excluirUsuario")
     public String excluirUsuario(long idPessoa) {
         Pessoa usuario = csr.findByIdPessoa(idPessoa);
