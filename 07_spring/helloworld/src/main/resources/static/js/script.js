@@ -1,1 +1,0 @@
-alert("Seja bem vindo ao Spring Boot!");
