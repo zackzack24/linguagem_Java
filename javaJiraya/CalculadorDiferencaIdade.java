@@ -1,11 +1,3 @@
-// public class Testando {
-//       public static void main(String[] args) {
-//             int idade = 50;
-//             System.out.println("Bora pra cima");
-//             System.out.println("A idade é " + idade);
-//       }
-// }
-
 public class CalculadorDiferencaIdade {
       public static void main(String[] args) {
             int primeiraIdade = 2620;
