@@ -11,3 +11,16 @@ public class Salarios {
       }
 
 }
+
+public class TesteDeVariaveis {
+      public static void main(String[] args) {
+            char masculino = 'A';
+            char feminino = 'B';
+            String masculino1 = 'A';
+            String masculino2 = 'b';
+            boolean trueOuFalse = false;
+            boolean trueOuFalse2 = true;
+
+            System.out.println();
+      }
+}
