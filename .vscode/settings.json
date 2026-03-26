@@ -7,5 +7,7 @@
     "java.compile.nullAnalysis.mode": "automatic",
     "editor.defaultFoldingRangeProvider": "vscjava.vscode-java-pack",
     "java.configuration.updateBuildConfiguration": "interactive",
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.detectJdksAtStart": true,
+    "java.import.gradle.version": "8"
 }
