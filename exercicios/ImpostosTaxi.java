@@ -1,6 +1,6 @@
 public class ImpostosTaxi {
     public static void main(String[] args) {
-        double salario = 5000;
+        double salario = 50000;
         double imposto1 = 10 / 100;
         double imposto2 = 20 / 100;
         double imposto3 = 30 / 100;
@@ -39,11 +39,14 @@ public class ImpostosTaxi {
         if (salario >= 5000) {
             calculoImposto1 = imposto1 * salario;
             System.out.println("Doarei " + imposto1);
+            System.out.println(calculoImposto1);
         } else if (salario >= 5000 && salario <= 10000) {
             calculoImposto2 = imposto2 * salario;
+            System.out.println(calculoImposto2);
             System.out.println("Doarei " + imposto2);
         } else if (salario >= 10000 && salario >= 15000) {
             calculoImposto3 = imposto3 * salario;
+            System.out.println(calculoImposto3);
             System.out.println("Doarei " + imposto3);
         }
 
