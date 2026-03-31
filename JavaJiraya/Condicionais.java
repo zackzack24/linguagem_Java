@@ -7,6 +7,7 @@ public class Condicionais {
                   System.out.println("Você é desfuncional");
             }
             // Fora do If
+            System.out.println(condicao);
       }
-
+   
 }
