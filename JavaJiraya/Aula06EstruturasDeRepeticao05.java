@@ -3,7 +3,7 @@ public class Aula06EstruturasDeRepeticao05 {
         double valorTotal = 30000;
 
         for (int parcela = (int) valorTotal; parcela <= valorTotal; parcela++) {
-            double valorParcela = valorTotal / parcela;
+            // double valorParcela = valorTotal / parcela;
             // double arredondarValorTotal = Math.round(valorParcela);
             // if (valorParcela >= 1000) {
             //     System.out.println("Parcela " + parcela + " Valor " + arredondarValorTotal);           
@@ -14,3 +14,6 @@ public class Aula06EstruturasDeRepeticao05 {
     }
 
 }
+
+
+
